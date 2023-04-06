@@ -84,3 +84,4 @@ class MedianFrame(ttk.LabelFrame):
         print(self.checkStringVar2.get())
         print(self.checkStringVar3.get())
         print(self.checkStringVar4.get())
+## 上傳
